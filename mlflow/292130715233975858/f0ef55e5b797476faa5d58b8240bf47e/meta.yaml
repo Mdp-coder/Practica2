@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/292130715233975858/f0ef55e5b797476faa5d58b8240bf47e/artifacts
+end_time: 1743703243321
+entry_point_name: ''
+experiment_id: '292130715233975858'
+lifecycle_stage: active
+run_id: f0ef55e5b797476faa5d58b8240bf47e
+run_name: adorable-fly-475
+run_uuid: f0ef55e5b797476faa5d58b8240bf47e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743703239470
+status: 3
+tags: []
+user_id: root

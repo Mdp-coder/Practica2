@@ -1,0 +1,15 @@
+artifact_uri: file:///content/Practica/mlflow/568786323053391264/d01ad24e0bcf47cf978e69096563f6fe/artifacts
+end_time: 1743703167177
+entry_point_name: ''
+experiment_id: '568786323053391264'
+lifecycle_stage: active
+run_id: d01ad24e0bcf47cf978e69096563f6fe
+run_name: delicate-bat-40
+run_uuid: d01ad24e0bcf47cf978e69096563f6fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743703158449
+status: 3
+tags: []
+user_id: root
